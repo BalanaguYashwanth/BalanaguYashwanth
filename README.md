@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-Full Stack Website :-
+Full Stack Website using python django :-
 https://youtu.be/hR8isipQBKw
 
 Social Distance Flutter App :-
