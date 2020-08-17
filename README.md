@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Projects :-
+
+Random Quotes :-
+https://balanaguyashwanth.github.io/js-assignments/Quotes
+
+Full Stack Website :-
+https://youtu.be/hR8isipQBKw
+
+Social Distance Flutter App :-
+https://github.com/BalanaguYashwanth/WalkSafeApp
