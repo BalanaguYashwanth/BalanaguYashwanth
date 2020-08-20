@@ -26,4 +26,5 @@ https://github.com/BalanaguYashwanth/WalkSafeApp
 Random Quotes :-
 https://balanaguyashwanth.github.io/js-assignments/Quotes
 
-
+Sample Template :-
+https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
