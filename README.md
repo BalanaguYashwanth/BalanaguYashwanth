@@ -33,10 +33,10 @@ https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
 Vue.js with Firebase :-
 https://alarm-a709f.web.app/
 
-
-
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
 
-To Know more connect me on [![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
+To Know more connect me on 
+
+[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
 
 
