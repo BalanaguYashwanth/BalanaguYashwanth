@@ -35,8 +35,10 @@ https://alarm-a709f.web.app/
 
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
 
-To Know more connect me on 
+To Know more connect me on :-
 
-[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)[![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash)
+[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash) [![Medium Badge](http://img.shields.io/badge/-@balanaguyashwanth-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@balanaguyashwanth)](https://medium.com/@balanaguyashwanth)<br/>
+
+
 
 
