@@ -33,10 +33,9 @@ Vue.js with Firebase :-
 https://alarm-a709f.web.app/
 
 
-To Know more connect me on [linkedin/balanagu-yashwanth-77a104159](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
-
-
 
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
+
+To Know more connect me on [linkedin/balanagu-yashwanth-77a104159](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
 
 
