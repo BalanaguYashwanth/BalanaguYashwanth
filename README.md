@@ -39,6 +39,6 @@ To Know more connect me on
 
 [![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
 
-[![Twitter: BalanaguYashwanth](https://twitter.com/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash)
+[![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash)
 
 
