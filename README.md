@@ -33,4 +33,4 @@ Vue.js with Firebase :-
 https://alarm-a709f.web.app/
 
 
-To Know more connect me on https://www.linkedin.com/in/balanagu-yashwanth-77a104159/
+To Know more connect me on [linkedin/balanagu-yashwanth-77a104159](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)
