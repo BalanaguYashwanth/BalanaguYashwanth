@@ -37,7 +37,7 @@ https://alarm-a709f.web.app/
 
 To Know more connect me on :-
 
-[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash) [![Medium Badge](http://img.shields.io/badge/-@balanaguyashwanth-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@makedevelopereasy)](https://medium.com/@makedevelopereasy)<br/>
+[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash) [![Medium Badge](http://img.shields.io/badge/-@makedevelopereasy-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@makedevelopereasy)](https://medium.com/@makedevelopereasy)<br/>
 
 
 
