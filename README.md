@@ -33,7 +33,7 @@ https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
 Vue.js with Firebase :-
 https://alarm-a709f.web.app/
 
-Pg/Hostel's Management system:-
+Pg/Hostel's smart management tool:-
 https://livenextpg.com/
 
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
