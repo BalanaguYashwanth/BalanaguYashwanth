@@ -36,7 +36,7 @@ https://alarm-a709f.web.app/
 Co-living smart management tool:-
 https://livenextpg.com/
 
-Instant Movie Results & Ratings:-
+Instant Movie Results & Ratings via whatsapp:-
 http://wa.me/+14155238886?text=join%20look-excitement
 
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
