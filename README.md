@@ -33,8 +33,11 @@ https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
 Vue.js with Firebase :-
 https://alarm-a709f.web.app/
 
-Co-living smart management tool:-
+Co-living smart management tool :-
 https://livenextpg.com/
+
+Online Education Platform :-
+http://techmanifester.com/
 
 Instant Movie Results & Ratings via whatsapp:-
 http://wa.me/+14155238886?text=join%20look-excitement
