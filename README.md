@@ -30,8 +30,8 @@ https://balanaguyashwanth.github.io/js-assignments/Quotes
 Sample Template :-
 https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
 
-Vue.js with Firebase :-
-https://alarm-a709f.web.app/
+React.js with Firebase (Beta) :-
+https://alarm-a709f.web.app/login
 
 Co-living smart management tool :-
 https://livenextpg.com/
