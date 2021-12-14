@@ -34,7 +34,7 @@ React.js with Firebase (Beta) :-
 https://alarm-a709f.web.app/login
 
 Co-living smart management tool :-
-https://livenextpg.com/
+https://pg-app-fd8a7.web.app/
 
 Online Education Platform :-
 http://techmanifester.com/
