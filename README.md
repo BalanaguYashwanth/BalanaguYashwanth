@@ -22,7 +22,7 @@ Full Stack Website using python django :-
 https://youtu.be/hR8isipQBKw
 
 Ecommerce clone using MERN:-
-https://laughing-goldwasser-678e11.netlify.app/login
+https://blissful-meninsky-434ad4.netlify.app/
 
 Social Distance Flutter App :-
 https://github.com/BalanaguYashwanth/WalkSafeApp
