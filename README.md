@@ -39,7 +39,7 @@ https://balanaguyashwanth.github.io/Bootstrap-Css/codedev
 React.js with Firebase (Beta) :-
 https://alarm-a709f.web.app/login
 
-Co-living smart management tool :-
+Co-living smart management platform :-
 https://pg-app-fd8a7.web.app/
 
 Online Education Platform :-
