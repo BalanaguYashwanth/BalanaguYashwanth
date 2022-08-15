@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
+Solana dapp using anchor rust and react :-
+https://grand-buttercream-f1a0b4.netlify.app/
+
 Protofolio :-
 https://balanaguyashwanth.github.io/Protofolio/page.html
 
