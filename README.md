@@ -57,7 +57,11 @@ https://expo.io/artifacts/821893ba-b9ff-4ce1-8047-1cd41e540658
 Controlling LED using smartphone with NodeMCU: -
 https://youtu.be/d-6e8A4en7A
 
+* * *
+
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
+
+* * *
 
 ### My motivational journey :-
 
@@ -71,6 +75,7 @@ https://youtu.be/d-6e8A4en7A
 
 2022 - SIH MENTOR & FIGURING OUT
 
+* * *
 
 ### To Know more connect me on :-
 
