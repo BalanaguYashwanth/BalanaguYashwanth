@@ -59,15 +59,20 @@ https://youtu.be/d-6e8A4en7A
 
 ![BalanaguYashwanth Status](https://github-readme-stats.vercel.app/api/top-langs/?username=BalanaguYashwanth&theme=material-palenight&hide_langs_below=1&layout=compact)
 
-My motivational journey :-
+### My motivational journey :-
 
 2016 - 2018 -> Zero Success
+
 2019 - MY STARTUP GOT INCUBATED (TBI) 
+
 2020 - NATIONAL HACKATHON SIH 2020 WINNER
+
 2021 - FRESHWORKS WINNER & WINNER OF EY INTERNAL HACKATHON GOT INCUBATED 
+
 2022 - SIH MENTOR
 
-To Know more connect me on :-
+
+### To Know more connect me on :-
 
 [![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash) [![Medium Badge](http://img.shields.io/badge/-@makedeveasy-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@makedeveasy)](https://medium.com/@makedeveasy)<br/>
 
