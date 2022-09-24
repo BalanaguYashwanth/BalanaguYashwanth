@@ -78,7 +78,7 @@ https://youtu.be/d-6e8A4en7A
 
 ### To Know more connect me on :-
 
-[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Twitter: BalanaguYashwanth](https://img.shields.io/twitter/follow/Thisls_Yash?style=social)](https://twitter.com/Thisls_Yash) [![Medium Badge](http://img.shields.io/badge/-@makedeveasy-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@makedeveasy)](https://medium.com/@makedeveasy)<br/>
+[![Linkedin: BalanaguYashwanth](https://img.shields.io/badge/-BalanaguYashwanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanagu-yashwanth-77a104159/)](https://www.linkedin.com/in/balanagu-yashwanth-77a104159/) [![Medium Badge](http://img.shields.io/badge/-@makedeveasy-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@makedeveasy)](https://medium.com/@makedeveasy)<br/>
 
 
 
