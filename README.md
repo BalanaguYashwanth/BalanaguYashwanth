@@ -64,7 +64,7 @@ https://youtu.be/d-6e8A4en7A
 
 ### My motivational journey :-
 
-2016 - 2018 -> Zero Success
+2016 - 2018 - Zero Success
 
 2019 - MY STARTUP GOT INCUBATED (TBI) 
 
