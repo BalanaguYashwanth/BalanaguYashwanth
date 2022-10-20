@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 Protofolio :-
 https://balanaguyashwanth.github.io/Protofolio/page.html
 
+Partron using Solana anchor rust and react :-
+https://cheery-cannoli-d87f60.netlify.app/
+
 Solana dapp using anchor rust and react :-
 https://grand-buttercream-f1a0b4.netlify.app/
 
