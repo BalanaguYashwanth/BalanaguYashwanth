@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 Protofolio :-
 https://balanaguyashwanth.github.io/Protofolio/page.html
 
+xNFT using react :- 
+https://www.xnft.gg/app/68v9DznDTzcEbDUNkAFNbje5hDECvmSrK6zWm6vm375J
+
 Partron using Solana anchor rust and react :-
 https://cheery-cannoli-d87f60.netlify.app/
 
