@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 Protofolio :-
 https://balanaguyashwanth.github.io/Protofolio/page.html
 
+React with backend Radix blockchain :-
+https://magnificent-travesseiro-793ab1.netlify.app/
+
 xNFT using react :- 
 [https://www.xnft.gg/app/68v9DznDTzcEbDUNkAFNbje5hDECvmSrK6zWm6vm375J](https://www.xnft.gg/app/42oFNuaWXSeCqjBp5BMRS3c8RnDGdiEfX2Bh1v9RqvYm)
 
