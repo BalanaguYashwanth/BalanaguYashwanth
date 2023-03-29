@@ -27,7 +27,7 @@ https://magnificent-travesseiro-793ab1.netlify.app/
 xNFT using react :- 
 [https://www.xnft.gg/app/68v9DznDTzcEbDUNkAFNbje5hDECvmSrK6zWm6vm375J](https://www.xnft.gg/app/42oFNuaWXSeCqjBp5BMRS3c8RnDGdiEfX2Bh1v9RqvYm)
 
-Partron using Solana anchor rust and react :-
+Partron using Solana blockchain anchor rust and react :-
 https://cheery-cannoli-d87f60.netlify.app/
 
 Solana dapp using anchor rust and react :-
