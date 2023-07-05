@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-PropertyGPT 
+PropertyGPT :-
 https://64a2ba87a3ef6d01417df36f--profound-wisp-3dc146.netlify.app
 
 React with backend Radix blockchain :-
