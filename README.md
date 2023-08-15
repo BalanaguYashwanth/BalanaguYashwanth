@@ -22,7 +22,7 @@ knowr.co :-
 http://knowr.co
 
 PropertyGPT :-
-https://64a2ba87a3ef6d01417df36f--profound-wisp-3dc146.netlify.app
+Houzzbot.com
 
 React with backend Radix blockchain :-
 https://magnificent-travesseiro-793ab1.netlify.app/
