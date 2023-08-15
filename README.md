@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### My Projects :-
 
 knowr.co :-
-http://knowr.co
+https://knowr.co
 
 PropertyGPT :-
-Houzzbot.com
+https://houzzbot.com/
 
 React with backend Radix blockchain :-
 https://magnificent-travesseiro-793ab1.netlify.app/
