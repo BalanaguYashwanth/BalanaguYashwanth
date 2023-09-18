@@ -24,6 +24,9 @@ https://knowr.co
 PropertyGPT :-
 https://houzzbot.com/
 
+NextJS with backend RadixDLT :-
+http://srilankanjunglers.com/
+
 React with backend Radix blockchain :-
 https://magnificent-travesseiro-793ab1.netlify.app/
 
