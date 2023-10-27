@@ -89,6 +89,8 @@ https://youtu.be/d-6e8A4en7A
 
 2022 - SIH MENTOR/EVALUATOR & EXPLORING
 
+2023 - Present - Looking for startups to build something great
+
 * * *
 
 ### To Know more connect me on :-
