@@ -27,11 +27,11 @@ https://houzzbot.com
 NextJS with backend RadixDLT :-
 http://srilankanjunglers.com
 
-Heavy Frontend Animation - 
-https://65563b370316e615bb71a2e1--eloquent-sunflower-f2f98b.netlify.app
-
 ChatBot - 
 https://spectacular-tiramisu-c59201.netlify.app
+
+Heavy Frontend Animation - 
+https://65563b370316e615bb71a2e1--eloquent-sunflower-f2f98b.netlify.app
 
 React with backend Radix blockchain :-
 https://magnificent-travesseiro-793ab1.netlify.app/
