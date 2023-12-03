@@ -22,13 +22,16 @@ knowr.co :-
 https://knowr.co
 
 PropertyGPT :-
-https://houzzbot.com/
+https://houzzbot.com
 
 NextJS with backend RadixDLT :-
-http://srilankanjunglers.com/
+http://srilankanjunglers.com
 
 Heavy Frontend Animation - 
 https://65563b370316e615bb71a2e1--eloquent-sunflower-f2f98b.netlify.app
+
+ChatBot - 
+https://spectacular-tiramisu-c59201.netlify.app
 
 React with backend Radix blockchain :-
 https://magnificent-travesseiro-793ab1.netlify.app/
@@ -37,16 +40,16 @@ xNFT using react :-
 [https://www.xnft.gg/app/68v9DznDTzcEbDUNkAFNbje5hDECvmSrK6zWm6vm375J](https://www.xnft.gg/app/42oFNuaWXSeCqjBp5BMRS3c8RnDGdiEfX2Bh1v9RqvYm)
 
 Partron using Solana blockchain anchor rust and react :-
-https://cheery-cannoli-d87f60.netlify.app/
+https://cheery-cannoli-d87f60.netlify.app
 
 Solana dapp using anchor rust and react :-
-https://grand-buttercream-f1a0b4.netlify.app/
+https://grand-buttercream-f1a0b4.netlify.app
 
 Full Stack Website using python django :-
 https://youtu.be/hR8isipQBKw
 
 Ecommerce clone using MERN:-
-https://blissful-meninsky-434ad4.netlify.app/
+https://blissful-meninsky-434ad4.netlify.app
 
 Social Distance Flutter App :-
 https://github.com/BalanaguYashwanth/WalkSafeApp
@@ -61,10 +64,10 @@ React.js with Firebase (Beta) :-
 https://alarm-a709f.web.app/login
 
 Co-living smart management platform :-
-https://pg-app-fd8a7.web.app/
+https://pg-app-fd8a7.web.app
 
 Online Education Platform :-
-http://techmanifester.com/
+http://techmanifester.com
 
 Instant Movie Results & Ratings via whatsapp:-
 http://wa.me/+14155238886?text=join%20look-excitement
