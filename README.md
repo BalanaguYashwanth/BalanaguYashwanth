@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-adtoken.co using React, Nestjs - SUI, TON chain :-
+Adtoken.co using React, Nestjs - SUI, TON chain :-
 https://adtoken.co
 
-heytaxicabs.com using React, Nodejs :-
+Heytaxicabs.com using React, Nodejs :-
 https://www.heytaxicabs.com
 
-knowr.co using React, FastAPI :-
+Knowr.co using React, FastAPI :-
 https://knowr.co
 
 PropertyGPT using React, FlaskAPI :-
