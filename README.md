@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-adtoken.co :-
+adtoken.co using React, Nestjs - SUI, TON chain :-
 https://adtoken.co
 
-heytaxicabs.com :-
+heytaxicabs.com using React, Nodejs :-
 https://www.heytaxicabs.com
 
-knowr.co :-
+knowr.co using React, FastAPI :-
 https://knowr.co
 
-PropertyGPT :-
+PropertyGPT using React, FlaskAPI :-
 https://houzzbot.com
 
 NextJS with backend RadixDLT :-
