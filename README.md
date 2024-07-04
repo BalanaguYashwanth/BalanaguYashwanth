@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-Adtoken.co using React, Nestjs - SUI, TON chain :-
+Adtoken.co using React, Nestjs, Multichain (SUI, TON) :-
 https://adtoken.co
 
 Heytaxicabs.com using React, Nodejs :-
