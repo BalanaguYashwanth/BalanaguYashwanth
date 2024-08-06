@@ -24,14 +24,14 @@ https://adtoken.co
 Heytaxicabs.com using React, Nodejs :-
 https://www.heytaxicabs.com
 
-Knowr.co using React, FastAPI :-
-https://knowr.co
-
 PropertyGPT using React, FlaskAPI :-
-https://houzzbot.com
+https://propertygpt-9c19f.web.app
 
 NextJS with backend RadixDLT :-
 http://srilankanjunglers.com
+
+Knowr.co using React, FastAPI :-
+https://knowr.co
 
 ChatBot - 
 https://spectacular-tiramisu-c59201.netlify.app
