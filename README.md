@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-FormPilot using PERN stack 
-https://formpilot.org/
+FormPilot using PERN stack :-
+https://formpilot.org
 
 Adtoken.co using React, Nestjs, Multichain (SUI, TON) :-
 https://adtoken.co
