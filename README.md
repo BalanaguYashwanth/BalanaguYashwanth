@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 FormPilot using PERN stack :-
 https://formpilot.org
 
-Adtoken.co using React, Nestjs, Multichain (SUI, TON) :-
+Adtoken.co using Reactjs, Nestjs, Multichain (SUI, TON) :-
 https://adtoken.co
 
 Heytaxicabs.com using Nextjs, Nodejs :-
 https://www.heytaxicabs.com
 
-PropertyGPT using React, FlaskAPI :-
+PropertyGPT using Reactjs, FlaskAPI :-
 https://propertygpt-9c19f.web.app
 
 NextJS with backend RadixDLT :-
