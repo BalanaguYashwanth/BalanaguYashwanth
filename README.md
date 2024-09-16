@@ -24,7 +24,7 @@ https://formpilot.org
 Adtoken.co using React, Nestjs, Multichain (SUI, TON) :-
 https://adtoken.co
 
-Heytaxicabs.com using React, Nodejs :-
+Heytaxicabs.com using Nextjs, Nodejs :-
 https://www.heytaxicabs.com
 
 PropertyGPT using React, FlaskAPI :-
