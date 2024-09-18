@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
-FormPilot using PERN stack :-
+FormPilot using PERN stack with AI/Web3 :-
 https://formpilot.org
 
 Adtoken.co using Reactjs, Nestjs, Multichain (SUI, TON) :-
