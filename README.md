@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 FormPilot using PERN stack with AI / Web3 :-
 https://formpilot.org
 
-Adtoken.co using Reactjs, Nestjs, Multichain (SUI, TON) :-
+Adtoken.co using Reactjs, Nestjs, Multichain (EVM, SUI, TON) :-
 https://adtoken.co
 
 Heytaxicabs.com using Nextjs, Nodejs :-
