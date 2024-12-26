@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
+Social AI Agents using Nextjs, Nodejs, Eliza :-
+https://social-agents.vercel.app
+
 FormPilot using PERN stack with AI / Web3 :-
 https://formpilot.org
 
