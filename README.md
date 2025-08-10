@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### My Projects :-
 
+SuiLens using Reactjs, FastAPI, MCP, Nodejs, SQLite, LLMs :-
+https://suilens.formpilot.org
+
 Social AI Agents using Farcaster, Neynar, Nextjs, Nodejs, Eliza :-
 https://social-agents.vercel.app
 
